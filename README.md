@@ -15,9 +15,5 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00599C?style=for-the-badge&logo=arduino&logoColor=white)
 
-### **GitHub Overview**
-
-<img src="https://github-readme-stats.vercel.app/api?username=santhiyakaruna06&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiyakaruna06&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
 
 </div>
