@@ -1,4 +1,4 @@
-# Hi, I'm Santhiya! 👋
+# Hi, I'm Santhiya! 
 
 Aspiring Python Developer | Exploring Data Analytics
 
