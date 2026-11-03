@@ -1,3 +1,4 @@
+![GitHub Banner](Santhiya_LinkedIn_Banner_Final.png)
 # Hi, I'm Santhiya! 
 
 Aspiring Python Developer | Exploring Data Analytics
