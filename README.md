@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Santhiya! 👋
 
-<!--
-**santhiyakaruna06/santhiyakaruna06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Developer | Exploring Data Analytics
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python programming
+- 💻 Interested in Python Development and Data Analytics
+- 🚀 Building beginner-friendly Python projects
+- 🎯 Working towards my IT career goals
+
+### 🛠️ Skills
+- Python
+- HTML (Learning)
+- Excel
+- Power BI (Learning)
+
+### 📂 My Projects
+- Hangman Game – Python Programming Internship
+
+### 📫 Connect with Me
+- GitHub: [My GitHub Profile](https://github.com/santhiyakaruna06)
